@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8666c6c3-4c78-4e48-bb6b-0eb962f8ff52" name="Changes" comment="project setup">
+    <list default="true" id="8666c6c3-4c78-4e48-bb6b-0eb962f8ff52" name="Changes" comment="performed sending data to a topic from java to kafka">
+      <change afterPath="$PROJECT_DIR$/kafka_basics/src/main/java/com/course/kafka/basics/ProducerDemoWithCallbacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka_basics/src/main/java/com/course/kafka/basics/ProducerDemoWithCallbacksWithKeys.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka_basics/src/main/java/com/course/kafka/basics/ProducerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka_basics/src/main/java/com/course/kafka/basics/ProducerDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +43,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "11",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.course.kafka.basics" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="ProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.course.kafka.basics.ProducerDemo" />
@@ -59,8 +68,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProducerDemoWithCallbacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.course.kafka.basics.ProducerDemoWithCallbacks" />
+      <module name="kafka-course.kafka_basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.kafka.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProducerDemoWithCallbacks" />
         <item itemvalue="Application.ProducerDemo" />
       </list>
     </recent_temporary>
@@ -81,11 +104,19 @@
       <option name="project" value="LOCAL" />
       <updated>1673166062715</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="performed sending data to a topic from java to kafka">
+      <created>1673167272398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673167272398</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="project setup" />
+    <MESSAGE value="performed sending data to a topic from java to kafka" />
+    <option name="LAST_COMMIT_MESSAGE" value="performed sending data to a topic from java to kafka" />
   </component>
 </project>
