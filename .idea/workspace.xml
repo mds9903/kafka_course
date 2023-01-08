@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8666c6c3-4c78-4e48-bb6b-0eb962f8ff52" name="Changes" comment="performed sending data to a topic from java to kafka">
-      <change afterPath="$PROJECT_DIR$/kafka_basics/src/main/java/com/course/kafka/basics/ProducerDemoWithCallbacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka_basics/src/main/java/com/course/kafka/basics/ProducerDemoWithCallbacksWithKeys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8666c6c3-4c78-4e48-bb6b-0eb962f8ff52" name="Changes" comment="performed sending data to a topic from java to kafka" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
