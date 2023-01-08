@@ -25,7 +25,7 @@ public class ProducerDemoWithCallbacksWithKeys {
         // create producer
         KafkaProducer<String, String> myProducer = new KafkaProducer<>(properties);
 
-        String topic = "topic_demoJava";
+        String topic = "demo_topic_with_keys";
 
         for(int i=0;i<10;i++) {
 
