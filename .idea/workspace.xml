@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="8666c6c3-4c78-4e48-bb6b-0eb962f8ff52" name="Changes" comment="performed sending data to a topic from java to kafka">
+    <list default="true" id="8666c6c3-4c78-4e48-bb6b-0eb962f8ff52" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kafka_basics/src/main/java/com/course/kafka/basics/ProducerDemoWithCallbacksWithKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka_basics/src/main/java/com/course/kafka/basics/ProducerDemoWithCallbacksWithKeys.java" afterDir="false" />
     </list>
-=======
-    <list default="true" id="8666c6c3-4c78-4e48-bb6b-0eb962f8ff52" name="Changes" comment="performed sending data to a topic from java to kafka" />
->>>>>>> 66bf8bc11993d2cd5e37cfdf9e71e4902b606a71
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K2FzCgpgufkVEXoWxuzQz0TAKR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -117,6 +115,17 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project setup" />
